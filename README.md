@@ -8,7 +8,7 @@ Este projeto consiste em uma página web interativa que permite ao usuário espe
 
 ## Demonstração
 
-![Sorteador de Números]
+
 <img src="./assets/Captura de tela 2024-02-09 213103.png" alt="">
 
 [Veja a demonstração ao vivo](https://lucianagomes1.github.io/Sorteador/)
